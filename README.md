@@ -30,7 +30,7 @@ $ git clone github.com/lucianoayres/mbpy.git
 
 ### Step 2
 
-Make sure you have following Python packages installed:
+Make sure you have the following Python packages installed:
 
 - hashlib
 - hmac
