@@ -89,7 +89,7 @@ mbClient.placesellorder('BRLLTC', '0.1', '1800.50')
 
 ### Additional Methods
 
-Check the source code comments to learn more about the remaining methods:
+Check the [source code](https://github.com/lucianoayres/mbpy/blob/main/src/mbpy.py) comments to learn more about the remaining methods:
 
 - listsystemmessages
 - getaccountinfo
