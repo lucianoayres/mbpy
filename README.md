@@ -15,7 +15,7 @@
 
 ### Disclaimer
 
-This a non-official script that makes use of a Public API using your user account credentials on Mercado Bitcoin crypto trading platform. It is provided 'as is' without express or implied warranty. Use it at your own risk.
+This a non-official script that makes use of a public API using your user account credentials on Mercado Bitcoin crypto trading platform. It is provided 'as is' without express or implied warranty. Use it at your own risk.
 
 ## Setup
 
