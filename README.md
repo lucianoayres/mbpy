@@ -1,3 +1,4 @@
+<br />
 <p align="center"><img src="https://user-images.githubusercontent.com/20209393/138785526-bdf71315-9ba4-4b96-9221-703f1f25df76.png" /></p>
 
 <h2 align="center">Non-official Mercado Bitcoin Trade API Python Wrapper</h2>
