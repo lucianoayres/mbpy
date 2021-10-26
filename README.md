@@ -106,4 +106,4 @@ Check the [source code](https://github.com/lucianoayres/mbpy/blob/main/src/mbpy.
 
 ## License
 
-[MIT License](https://github.com/esqb/brcoin/blob/main/LICENSE)
+[MIT License](https://github.com/lucianoayres/mbpy/blob/main/LICENSE)
