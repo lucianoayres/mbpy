@@ -1,7 +1,7 @@
 <br />
 <p align="center"><img src="https://user-images.githubusercontent.com/20209393/138785526-bdf71315-9ba4-4b96-9221-703f1f25df76.png" /></p>
 
-<h2 align="center">Non-official Mercado Bitcoin Trade API Python Wrapper</h2>
+<h2 align="center">Unofficial Mercado Bitcoin Trade API Python Wrapper</h2>
 
 `mbpy` is an open source python wrapper for [Mercado Bitcoin Trade API](https://www.mercadobitcoin.com.br/trade-api).
 
@@ -16,7 +16,7 @@
 
 ### Disclaimer
 
-This a non-official script that makes use of a public API using your user account credentials on Mercado Bitcoin crypto trading platform. It is provided 'as is' without express or implied warranty. Use it at your own risk.
+This a unofficial independent project that makes use of a public API using your user account credentials on Mercado Bitcoin crypto trading platform. It is provided 'as is' without express or implied warranty. Use it at your own risk.
 
 ## Setup
 
